@@ -1,6 +1,6 @@
 ![Header Image](./github-ppic.gif) <!-- Replace with your actual image link -->
 
-# Hey there, I'm Het Shah 👋
+# Hi there, I'm Het 👋
 
 ### Data Analyst | Data Engineer | Business Intelligence Enthusiast
 
